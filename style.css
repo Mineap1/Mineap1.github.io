@@ -1,22 +1,22 @@
 p
     {
 
-        color:rgb(36, 25, 25);
-        font-size:large;
-        font-weight:bold;
-        font-family:Square Peg;
+        color:rgb(255, 255, 255);
+        font-size:medium;
+        font-weight:normal;
+        font-family:Comic sans;
     }
 
 body
     {
 
-        background-color: rgb(221, 221, 226);
+        background-color: rgb(0, 0, 0);
 
     }
 
 div
     {
 
-        max-width: 720px;
+        max-width: 1080px;
 
     }
